@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mainak-bt
 - 👀 I’m interested in PLM
-- 🌱 I’m currently learning TC 
-- 💞️ I’m looking to collaborate on Custom App.
 - 📫 How to reach me -> mainak.d@bavistech.com
 
 
